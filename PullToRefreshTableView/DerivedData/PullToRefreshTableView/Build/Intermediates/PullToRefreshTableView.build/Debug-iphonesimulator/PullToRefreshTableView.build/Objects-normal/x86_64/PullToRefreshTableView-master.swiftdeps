@@ -1,0 +1,7 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.8 clang-703.0.31)"
+options: "e9a11bc8376645865f82a9662e74a615"
+build_time: [538815675, 148541000]
+inputs:
+  "/Users/Nishant/Downloads/iOS-master 2/PullToRefreshTableView/PullToRefreshTableView/TableViewCustomCell.swift": [470495678, 0]
+  "/Users/Nishant/Downloads/iOS-master 2/PullToRefreshTableView/PullToRefreshTableView/AppDelegate.swift": [470495678, 0]
+  "/Users/Nishant/Downloads/iOS-master 2/PullToRefreshTableView/PullToRefreshTableView/TableViewController.swift": !dirty [470495678, 0]
